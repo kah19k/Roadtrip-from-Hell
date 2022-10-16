@@ -1,0 +1,19 @@
+:: StoryData
+{
+  "ifid": "6CF979EA-34C7-4B51-8FCC-E2A6259B6BAE",
+  "format": "SugarCube",
+  "format-version": "2.36.1"
+}
+
+:: StoryTitle
+Roadtrip From Hell
+
+:: StoryInit
+<<set $eta to "8:00PM">>
+
+:: Start 
+[img[scarycar.jpg]]
+Welcome to a story where your desicions determine your fate. Always choose wisely and be careful who you trust. 
+This road trip will give hell a whole new meaning. 
+Are you ready?
+[[BEGIN THE DRIVE|path1]]
