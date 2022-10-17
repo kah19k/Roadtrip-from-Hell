@@ -6,4 +6,6 @@
 
                     Play again? 
 
-                    [[yes|main]]   [[no|path19]]
+                   yes (hit restart)
+                   
+                     [[no|path19]]
