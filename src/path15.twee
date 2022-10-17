@@ -5,4 +5,4 @@
                 Dare to play again?
 
 
-                yes     no 
+                [[yes|main]]     [[no|path19]]

@@ -6,4 +6,4 @@
 
                     Play again? 
 
-                    [[yes]]   [[no]]
+                    [[yes|main]]   [[no|path19]]
